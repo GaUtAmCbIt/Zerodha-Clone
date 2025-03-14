@@ -1,16 +1,41 @@
-🚀 Introducing My Full-Stack Trading Platform! 🚀
+# 🚀 Full-Stack Trading Platform (MERN) 📈  
 
-Hey everyone! 👋
+## Introduction  
+Welcome to my **Full-Stack Trading Platform**, built using the **MERN (MongoDB, Express, React, Node.js) stack**.  
+This platform allows users to **buy stocks**, with transactions reflecting in the database in real-time!  
 
-I've built a full-stack trading platform using MERN technologies, where you can buy stocks, and the transactions reflect in the database in real-time! 📈
+## 🌟 Features  
+✅ **Landing Page** → [Live Demo](https://z2.onrender.com/) 🌍 ([GitHub Repo](https://github.com/GaUtAmCbIt/Z2))  
+✅ **Backend & Dashboard** → [Live Demo](https://z-fud3.onrender.com/) 📊 ([GitHub Repo](https://github.com/GaUtAmCbIt/z))  
+✅ **Interactive Charts & Bar Graphs** using **React Chart.js** 📊  
+✅ **MongoDB** as the main database  
+✅ **Axios** for API communication  
+✅ **CORS** enabled for secure cross-origin requests  
 
-🌟 Project Highlights:
-✅ Landing Page: Live Demo 🌍 (GitHub Repo)
-✅ Backend & Dashboard: Live Demo 📊
+## 🛠 Tech Stack  
+- **Frontend**: React.js  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Charting**: React Chart.js  
+- **API Calls**: Axios  
+- **Deployment**: Render  
 
-Features dummy data with interactive charts & bar graphs
-Built using React Chart.js for visualizations
-Uses MongoDB as the main database
-Axios for API communication & CORS for cross-origin requests
-Backend code: GitHub Repo
-Would love your feedback! Let me know what you think. 🚀🔥
+## 📂 Project Structure  
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the Repositories  
+```sh
+git clone https://github.com/GaUtAmCbIt/Z2.git  # Frontend
+git clone https://github.com/GaUtAmCbIt/z.git   # Backend
+cd frontend
+npm install
+cd ../backend
+npm install
+cd frontend
+npm start   # Runs frontend on localhost:3000
+
+cd ../backend
+npm start   # Runs backend on localhost:5000
+📢 Feedback
+If you have any suggestions or improvements, feel free to create an issue or submit a pull request! 🚀
