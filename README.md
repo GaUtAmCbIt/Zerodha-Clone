@@ -21,6 +21,10 @@ This platform allows users to **buy stocks**, with transactions reflecting in th
 - **Deployment**: Render  
 
 ## 📂 Project Structure  
+📦 Project Root
+├── 📂 frontend (Landing Page - React)
+├── 📂 backend (Node.js & Express API)
+└── 📂 dashboard (Charts & Data Visualization)
 
 ## 🚀 Getting Started  
 
